@@ -49,4 +49,16 @@ public static void Main(string []args){
 //Main: memory it contain parameter like here it contain string data type means here code store in format of string
 //args: it is arguments means when we passed code in main memory we don't know how much line or how much charater we pass, []= array bracket that is not contain any number means we can define n number of data.
 
-6. for generate applicatio we need input and output
+6. for generate applicatio we need input and output.
+   c#-> for console application
+   input: Console.ReadLine()
+   Read: scan line
+   Line: generate new line
+
+   But it give error because it command it require some library
+   so for call any library in C# used using
+   using= to import library
+
+here we used library using System
+
+Output: Console.WriteLine()
