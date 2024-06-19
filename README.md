@@ -1,4 +1,4 @@
-# DotNet_Learn
+# DotNet_Learn(It is provided by Microsoft)
 
 # Introduction
 
@@ -62,3 +62,12 @@ public static void Main(string []args){
 here we used library using System
 
 Output: Console.WriteLine()
+
+7. for command prompt:
+   save: className.cs
+   compile: csc className.cs
+   RUN: cs className
+
+8. IMP: To put it simply, an IDE is a one-stop shop for the development of an application whereas a text-editor as the name suggests, is used for writing and editing code. Visual Studio is an IDE whereas VSCode is a text editor.
+
+9. Console.ReadKey();// to hold output screen
