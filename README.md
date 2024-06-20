@@ -71,3 +71,42 @@ Output: Console.WriteLine()
 8. IMP: To put it simply, an IDE is a one-stop shop for the development of an application whereas a text-editor as the name suggests, is used for writing and editing code. Visual Studio is an IDE whereas VSCode is a text editor.
 
 9. Console.ReadKey();// to hold output screen
+
+# Data types and Variables:
+
+1. variable to store data
+2. variable Naming : alphabet,alphanumeric,
+3. variable name cannot start with numbers
+4. space not allowed instead we can use underscore.
+5. special character not allowed.
+6. how to store data in variable,
+   a=10; (= is assign)
+7. data types are of two type : Primitive(it is costant means not other data type are formed)(int,float,char) and non Primitive(double,string)(other datatype can easily form).
+
+8. 1 byte =8 bits =2^n =2^8 =256 numbers
+   for char 1 byte = 1 letter
+   int ------> numeric 4bytes
+   float-----> decimal 4bytes
+   char-------> only one letter 2bytes
+   double-----> decimal 8bytes
+   byte-------> store array 1 byte
+   bool------> true or false 1byte
+   string---->set of character no fixed size.
+
+9. syntax: datatype variableName;// declaration
+   or dataype variableName =value;// initialization
+
+10. by default in c# and java , the decimal value consider as double.( float a=15.6(error) , float a=15.6f (no error))
+11. when we read data from Console.ReadLine() it pass as an string format.so we have to typecast it.(we use datatype.Parse).
+12. String interpolation: $"Emp Id is : {id}"
+
+# Operators
+
+1. Operators is which operation we going to perform and on which are operands.
+2. Types of Operators: Unary(it contain at least one operands )and Binary operator(contain atleast two operands).
+3. Uniary operators:(++) increment(pre and post) and (--)decrement(pre and post).
+4. Binary: Arithmetic(+,-,\*,/,%), Assignmet(+=,-=,\*=,%=), Relational(<,>,<=,=>,==,!=) return true or false. Loigcal(&&,||, !),Bitwise(&,},^,~).
+5. Typecast: implicit (it convert lower datatype into higher datatype)and explicit(reverse of implicit);
+   ex: double x =12.4;
+   int y=x; (wrong)
+   int y=int(x); correct
