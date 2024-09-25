@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Learn_DOTNET\\TestApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC84CA1-DCCB-49C4-9F9C-48A3DE1FE45F}|TestApp1\\TestApp1.csproj|k:\\learn_dotnet\\testapp1\\testapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC84CA1-DCCB-49C4-9F9C-48A3DE1FE45F}|TestApp1\\TestApp1.csproj|solutionrelative:testapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Learn_DOTNET\\TestApp1\\TestApp1\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp1\\Program.cs",
+              "ToolTip": "K:\\Learn_DOTNET\\TestApp1\\TestApp1\\Program.cs",
+              "RelativeToolTip": "TestApp1\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:26:06.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

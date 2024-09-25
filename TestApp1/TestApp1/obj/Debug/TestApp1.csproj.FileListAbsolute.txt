@@ -1,0 +1,7 @@
+K:\Learn_DOTNET\TestApp1\TestApp1\bin\Debug\TestApp1.exe.config
+K:\Learn_DOTNET\TestApp1\TestApp1\bin\Debug\TestApp1.exe
+K:\Learn_DOTNET\TestApp1\TestApp1\bin\Debug\TestApp1.pdb
+K:\Learn_DOTNET\TestApp1\TestApp1\obj\Debug\TestApp1.csproj.AssemblyReference.cache
+K:\Learn_DOTNET\TestApp1\TestApp1\obj\Debug\TestApp1.csproj.CoreCompileInputs.cache
+K:\Learn_DOTNET\TestApp1\TestApp1\obj\Debug\TestApp1.exe
+K:\Learn_DOTNET\TestApp1\TestApp1\obj\Debug\TestApp1.pdb
