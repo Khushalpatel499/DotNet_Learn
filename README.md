@@ -62,13 +62,20 @@ public static void Main(string []args){
 here we used library using System
 
 Output: Console.WriteLine()
-
-7. for command prompt:
-   save: className.cs
-   compile: csc className.cs
-   RUN: cs className
+file name is same as class name 7. for command prompt:
+save: className.cs
+compile: csc className.cs
+RUN: cs className
 
 8. IMP: To put it simply, an IDE is a one-stop shop for the development of an application whereas a text-editor as the name suggests, is used for writing and editing code. Visual Studio is an IDE whereas VSCode is a text editor.
+
+To run .net in vs code editor for low end devices
+first download .net and vs code
+then C# and C# extension
+
+to create .net project type: dotnet new shortname
+and for run type: donet run
+for continue change (hot reload)use: donet watch run
 
 9. Console.ReadKey();// to hold output screen
 
@@ -87,7 +94,7 @@ Output: Console.WriteLine()
    for char 1 byte = 1 letter
    int ------> numeric 4bytes
    float-----> decimal 4bytes
-   char-------> only one letter 2bytes
+   char-------> only two letter 2bytes
    double-----> decimal 8bytes
    byte-------> store array 1 byte
    bool------> true or false 1byte
@@ -106,7 +113,10 @@ Output: Console.WriteLine()
 2. Types of Operators: Unary(it contain at least one operands )and Binary operator(contain atleast two operands).
 3. Uniary operators:(++) increment(pre and post) and (--)decrement(pre and post).
 4. Binary: Arithmetic(+,-,\*,/,%), Assignmet(+=,-=,\*=,%=), Relational(<,>,<=,=>,==,!=) return true or false. Loigcal(&&,||, !),Bitwise(&,},^,~).
-5. Typecast: implicit (it convert lower datatype into higher datatype)and explicit(reverse of implicit);
+5. Typecast: implicit (it convert lower datatype into higher datatype)
+   ex: int x=10;
+   long y=x; (correct)
+   and explicit(reverse of implicit);
    ex: double x =12.4;
    int y=x; (wrong)
    int y=int(x); correct
