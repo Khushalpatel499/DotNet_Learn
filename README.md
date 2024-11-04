@@ -176,3 +176,26 @@ x.do- while loop
    Console.Write(y+" ");
 
    }
+
+# OPPS
+
+1. Opps- bottom to top
+2. pop - top to bottom
+3. class - blue print, it is collection of object, class name can be anythink
+4. object - reference of class ,to communicate with method(member function )
+
+# Methods:
+
+1. It is basically a function or member function.
+2. function vs memeber function: function can be anythink normal function or memeber of any class while memeber function is member of the given class.
+3. method syntax: access_modifier return_type methodname(parameter ){
+   //body;
+   }
+4. Access modifiers: 1. Private: data availabe only for the specific class, data cannot be share from one class to another 2. public:access the data anywhere. 3.protected: same as private but the difference is that class can share data with only relationship classes.(like inheritance) 4. internal: within the assembly means within pakage,like in one package i have 4-5 classes then i can share 4-5 class data in same package.
+
+5. return types: 1. void: it doesn't return any 2. datatype:int,float,string they require return statement.
+6. Methodname: userdefined method
+7. parameters: extra data or variables , optionals
+
+8. we have two class A,B . A have method disc1(), B have method disc2(), and other method is disc3()
+   here disc3 is function while disc1 and disc2 is member function.
