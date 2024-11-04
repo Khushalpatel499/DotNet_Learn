@@ -1,0 +1,15 @@
+K:\Learn_DOTNET\DotNet_Learn\Decision\bin\Debug\net8.0\Decision.exe
+K:\Learn_DOTNET\DotNet_Learn\Decision\bin\Debug\net8.0\Decision.deps.json
+K:\Learn_DOTNET\DotNet_Learn\Decision\bin\Debug\net8.0\Decision.runtimeconfig.json
+K:\Learn_DOTNET\DotNet_Learn\Decision\bin\Debug\net8.0\Decision.dll
+K:\Learn_DOTNET\DotNet_Learn\Decision\bin\Debug\net8.0\Decision.pdb
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\Decision.GeneratedMSBuildEditorConfig.editorconfig
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\Decision.AssemblyInfoInputs.cache
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\Decision.AssemblyInfo.cs
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\Decision.csproj.CoreCompileInputs.cache
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\Decision.sourcelink.json
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\Decision.dll
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\refint\Decision.dll
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\Decision.pdb
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\Decision.genruntimeconfig.cache
+K:\Learn_DOTNET\DotNet_Learn\Decision\obj\Debug\net8.0\ref\Decision.dll

@@ -120,3 +120,59 @@ for continue change (hot reload)use: donet watch run
    ex: double x =12.4;
    int y=x; (wrong)
    int y=int(x); correct
+
+# Decision making
+
+1. if statement
+2. if-else statement
+3. nested if-else statement
+4. Else if ladder
+5. switch case statement
+
+to check condition which is help of debugger can add break points
+
+# loops
+
+1.finite
+a. Entry controlled loop
+x.for loop
+y.while loop
+b. exit controlled loop
+x.do- while loop
+2.infinite
+
+# control statements
+
+1. break: to exit the loop
+2. continue: skip the values according to condition
+
+# Array
+
+1. Collection of similar type of data
+2. static : size is fix for dynamic used collection in C#
+3. Homogenous: same type definition
+4. types: 1D: to define indexing,multi D
+5. Length - define array length
+6. two types of syntax:
+   a. datatype []variablename = new datatype[size];
+   b. datatype []variablename ={elements};
+
+# foreach loop
+
+1. use when store more than one element, use to collect array and object
+   2.syntex: foreach(datatype variable in array){}
+
+# Multi D array
+
+1. syntex: datatype [,]varname =new datatype[rowSize,columnsize];
+   Ex: int [,]arr= new int [3,3];
+   arr[1,1]=10
+
+2. Datatype [,]varname ={};
+
+3. By foreach
+   foreach(int y in arr){
+
+   Console.Write(y+" ");
+
+   }
