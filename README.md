@@ -211,3 +211,12 @@ x.do- while loop
     access_modifier returntype methodname(par){
     //body;  
      }
+
+13. Now create two class one for operation and other for call the methods.
+14. now want to call the operations in program.cs then we need to create object of the class.
+15. before create we have to access using oops.
+16. namespace oops : use to group related classes,method,and others types together.
+17. using oops: allow to access types within the oops namespace without having to fully qualify their names every times.
+18. Convert lower data type into higher data type is called implict conversion int a=2;//4 byte
+    double x=a;//8 byte
+    but the reverse is explict type casting.

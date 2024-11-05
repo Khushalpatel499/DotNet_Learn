@@ -1,0 +1,15 @@
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\oops.AssemblyInfoInputs.cache
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\oops.AssemblyInfo.cs
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\oops.csproj.CoreCompileInputs.cache
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\oops.sourcelink.json
+K:\Learn_DOTNET\DotNet_learn\oops\bin\Debug\net8.0\oops.exe
+K:\Learn_DOTNET\DotNet_learn\oops\bin\Debug\net8.0\oops.deps.json
+K:\Learn_DOTNET\DotNet_learn\oops\bin\Debug\net8.0\oops.runtimeconfig.json
+K:\Learn_DOTNET\DotNet_learn\oops\bin\Debug\net8.0\oops.dll
+K:\Learn_DOTNET\DotNet_learn\oops\bin\Debug\net8.0\oops.pdb
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\oops.dll
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\refint\oops.dll
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\oops.pdb
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\oops.genruntimeconfig.cache
+K:\Learn_DOTNET\DotNet_learn\oops\obj\Debug\net8.0\ref\oops.dll
