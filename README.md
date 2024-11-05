@@ -199,3 +199,15 @@ x.do- while loop
 
 8. we have two class A,B . A have method disc1(), B have method disc2(), and other method is disc3()
    here disc3 is function while disc1 and disc2 is member function.
+9. to communicate with method with object use obj1.disc1()
+10. Advantages: reusable method
+11. types of methods: 1. static method:this method can access only the static memeber, it define with static keyword , no need to create object to call static memeber, we can access method by using class name or directly method. 2. nonstatic method(dynamic method): in this method we can access static and non static data, no use of static keyword, neccesary to create object to call object.
+
+12. syntax: static method:
+    access_modifier staitc returntype methodname(para){
+    //body;
+    }
+    non-static:
+    access_modifier returntype methodname(par){
+    //body;  
+     }
